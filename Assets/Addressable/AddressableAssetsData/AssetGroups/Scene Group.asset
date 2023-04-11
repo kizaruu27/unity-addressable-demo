@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Scene Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Scene Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1e5860cf7f78d0842932ed8a76b03bd9
+  m_SerializeEntries:
+  - m_GUID: f430f89e33f37814c87443a33f541213
+    m_Address: Assets/Addressable/Addressable Assets/Scene/Addressable_Desert Environment.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: c845e9991d1c1a544958c40ea89f3363
+    m_Address: Assets/Addressable/Addressable Assets/Scene/Addressable_Forest Environment.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: eb25d29ded368244fa54e894c7704fe1
+    m_Address: Assets/Addressable/Addressable Assets/Scene/Addressable_Rocks Environment.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5ee1337f3582dc2408a740a4594d1149, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 42fe6f62c7d6753408e43da416346d29, type: 2}
+    - {fileID: 11400000, guid: 314309d347c74b54e8412fd0e927c2c2, type: 2}
